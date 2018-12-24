@@ -1,0 +1,32 @@
+{
+    "CPict2": true,
+    "CVid2": false,
+    "autoAdd": false,
+    "autoAddMessage": "Halo @!, terimakasih telah menambahkan saya sebagai teman,sudah ku addback kok ..salken ya..",
+    "autoJoin": true,
+    "autoJoinMessage": "Halo @!, makasih sudah invite saya ke group",
+    "autoJoinTicket": false,
+    "autoRead": true,
+    "autoRespon": false,
+    "autoResponMessage": "Heh @!, ngapain tag-tag di ROOM ,udah kayak BOT aja...",
+    "changeGroupPicture": [],
+    "changePictureProfile": false,
+    "changevp": true,
+    "checkContact": false,
+    "checkPost": false,
+    "checkSticker": false,
+    "detectUnsend": true,
+    "fotterlink": "http://line.me/ti/p/~syifaabyananta",
+    "keyCommand": "",
+    "mimic": {
+        "status": false,
+        "target": {}
+    },
+    "myProfile": {
+        "coverId": "",
+        "displayName": "",
+        "pictureStatus": "",
+        "statusMessage": ""
+    },
+    "setKey": true
+}
